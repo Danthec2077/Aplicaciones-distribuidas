@@ -1,0 +1,5 @@
+¿Cuales son los puertos que utilizan por defecto Django, Oracle, Sqlserver y Mysql?
+Django utiliza el puerto 8000
+El puerto por defecto del proceso de escucha de Oracle Database es el 1521
+Sqlserver utiliza el puerto 1433
+El puerto por defecto de Mysql es el 3306
